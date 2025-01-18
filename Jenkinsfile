@@ -2,7 +2,7 @@ pipeline {
     agent any
     environment {
         AWS_ACCOUNT_ID = "472869921261"
-        AWS_DEFAULT_REGION = "us-east-1"     
+        AWS_DEFAULT_REGION ="us-east-1"     
     }
         
     stages {
